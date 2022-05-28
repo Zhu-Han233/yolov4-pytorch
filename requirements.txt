@@ -7,3 +7,5 @@ torchvision==0.4.0
 tqdm==4.60.0
 Pillow==8.2.0
 h5py==2.10.0
+# pip install -r requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+# git clone https://hub.fastgit.xyz/bubbliiiing/yolo3-pytorch.git
